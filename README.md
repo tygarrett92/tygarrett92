@@ -1,1 +1,1 @@
-Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
+Welcome to my page. I'm an aspiring Data Analyst. Here you can find all of my completed projects. I like analyzing data and making it make sense for others to understand. Looking forward to this journey. Cheers!!
